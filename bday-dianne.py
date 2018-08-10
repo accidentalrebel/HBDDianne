@@ -27,12 +27,12 @@ while True:
             adjectives.append(entry)
             continue
         if i == 1 :
-            outputFile.write("\t\t<div class=\"name\">\n")
+            outputFile.write("\t\t<p class=\"name\">\n")
         if i == 2 :
-            outputFile.write("\t\t<div class=\"message\">\n")
+            outputFile.write("\t\t<p class=\"message\">\n")
 
         outputFile.write("\t\t\t" + entry);
-        outputFile.write("\n\t\t</div>\n")
+        outputFile.write("\n\t\t</p>\n")
 
     outputFile.write("\t</div>\n")
 

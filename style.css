@@ -35,6 +35,7 @@ body {
 }
 
 .name {
+    font-weight: bold;
     border-bottom: 2px dashed;
     padding: 0 0 5px 0;
     margin: 0 0 10px 0;
