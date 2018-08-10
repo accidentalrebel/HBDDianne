@@ -1,11 +1,9 @@
 body {
-    background: url("bday.jpg") top center fixed  no-repeat;
+    background: url("bday.jpg") top left fixed  no-repeat;
     font-family: Helvetica;
 }
 
 #wrapper {
-    width: 420px;
-    margin: 0 auto;
 }
 
 .box {
