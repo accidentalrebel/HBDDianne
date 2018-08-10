@@ -1,16 +1,19 @@
 body {
     background: url("bday.jpg") top left fixed  no-repeat;
+    background-size: 100%;
     font-family: Helvetica;
 }
 
 #wrapper {
+    width: 600px;
+    margin: 0 auto;
 }
 
 .box {
     border: 1px;
     background: white;
     border-radius: 25px;
-    width: 400px;
+    width: 600px;
     padding: 20px 15px;
     margin: 0 0 15px 0;
 }
@@ -20,7 +23,7 @@ body {
     background: #b308b1;
     color: white;
     border-radius: 25px;
-    width: 400px;
+    width: 600px;
     padding: 20px 15px;
     margin: 0 0 15px 0;
 }
