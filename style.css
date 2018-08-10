@@ -1,5 +1,5 @@
 body {
-    background: url("bday.jpg") top left fixed  no-repeat;
+    background: #0099d1 url("bday.jpg") top left fixed  no-repeat;
     background-size: 100%;
     font-family: Helvetica;
 }
@@ -39,6 +39,7 @@ body {
     border-bottom: 2px dashed;
     padding: 0 0 5px 0;
     margin: 0 0 10px 0;
+    width: 100%;
     font-size: 18px;
 }
 
